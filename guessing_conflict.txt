@@ -1,7 +1,8 @@
 Questian A
-
+10000000
 Questian B
-
+350000
 Questian C
-
+40
 Questian D
+20
